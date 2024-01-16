@@ -58,3 +58,25 @@ print("Age type: ", type(Age))
 print("GPA type: ", type(GPA))
 print("Address type: ", type(Address))
 print()
+
+print("Joob"*5)
+print(5*5)
+print("5"*5)
+
+# List
+d = [1,2,3,4,5,6,7,8,9,10]
+e = ["Jack", "Aum", "Wa", "Tea"]
+f = ["Tony", 911, 112, "Tou"]
+print()
+print(f)
+print("f type: ", type(f))
+print()
+
+# Tuple
+g = (1,2,3,4,5,6,7,8,9,10)
+h = ("Jack", "Aum", "Wa", "Tea")
+i = ("Tony", 911, 112, "Tou")
+print()
+print(i)
+print("f type: ", type(i))
+print()
