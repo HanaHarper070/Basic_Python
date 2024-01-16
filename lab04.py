@@ -46,14 +46,14 @@ print()
 
 # String (str) ตัวอักษร
 Name = "Jack"
-Sename = "Saru"
+Sername = "Saru"
 Age = 41
 GPA = 3.33
 Address = "56/2"
 
 print()
 print("Name type: ", type(Name))
-print("Sename type: ", type(Sename))
+print("Sename type: ", type(Sername))
 print("Age type: ", type(Age))
 print("GPA type: ", type(GPA))
 print("Address type: ", type(Address))
@@ -79,4 +79,10 @@ i = ("Tony", 911, 112, "Tou")
 print()
 print(i)
 print("f type: ", type(i))
+print()
+
+# 6. Dictionary >>> {Key:Value}
+j = {"Name01": "Jackey", "Sername01": "Harper", "Age01":30, "GPA01":0.33}
+print()
+print(j)
 print()
